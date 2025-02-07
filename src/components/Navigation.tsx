@@ -50,6 +50,12 @@ function Navigation({ activePage, setActivePage }: NavigationProps) {
               Courses
             </button>
             <button 
+              onClick={() => handleNavClick('services')}
+              className={`${activePage === 'services' ? 'text-primary' : 'text-black'} hover:text-primary`}
+            >
+              Services
+            </button>
+            <button 
               onClick={() => handleNavClick('pricing')}
               className={`${activePage === 'pricing' ? 'text-primary' : 'text-black'} hover:text-primary`}
             >
@@ -89,6 +95,14 @@ function Navigation({ activePage, setActivePage }: NavigationProps) {
               } block px-3 py-2 w-full text-left hover:text-primary`}
             >
               Courses
+            </button>
+            <button
+              onClick={() => handleNavClick('services')}
+              className={`${
+                activePage === 'services' ? 'text-primary' : 'text-black'
+              } block px-3 py-2 w-full text-left hover:text-primary`}
+            >
+              Services
             </button>
             <button
               onClick={() => handleNavClick('pricing')}
