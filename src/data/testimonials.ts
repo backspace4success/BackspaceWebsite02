@@ -1,0 +1,20 @@
+export const testimonialsImages: string[] = [
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/1.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/2.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/3.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/4.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/5.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/6.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/7.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/8.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/9.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/10.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/11.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/12.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/13.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/14.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/15.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/16.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/17.png?raw=true',
+  'https://github.com/anwar211944/BackspaceWebsite/blob/main/img/18.png?raw=true'
+];
