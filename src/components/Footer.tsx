@@ -48,6 +48,14 @@ function Footer({ setActivePage }: FooterProps) {
               </li>
               <li>
                 <button
+                  onClick={() => handleNavigation('services')}
+                  className="text-white/80 hover:text-secondary cursor-pointer"
+                >
+                  Services
+                </button>
+              </li>
+              <li>
+                <button
                   onClick={() => handleNavigation('pricing')}
                   className="text-white/80 hover:text-secondary cursor-pointer"
                 >
