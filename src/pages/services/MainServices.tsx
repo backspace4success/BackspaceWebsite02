@@ -60,9 +60,9 @@ function MainServices() {
                   </li>
                 ))}
               </ul>
-              <button className="w-full bg-primary text-white py-3 rounded-lg hover:bg-primary/90 transition-all duration-300 transform hover:scale-[1.02]">
+{/*               <button className="w-full bg-primary text-white py-3 rounded-lg hover:bg-primary/90 transition-all duration-300 transform hover:scale-[1.02]">
                 Learn More
-              </button>
+              </button> */}
             </div>
           </div>
         ))}
