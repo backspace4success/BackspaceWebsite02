@@ -43,7 +43,7 @@ function Hero({ setActivePage }: HeroProps) {
               <img
                 src="https://github.com/anwar211944/BackspaceWebsite/blob/main/img/Backspace-Logo.png?raw=true"
                 alt="Online learning"
-                className="relative rounded-lg shadow-xl"
+                className="relative "
               />
             </div>
           </div>
