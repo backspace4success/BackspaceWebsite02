@@ -64,7 +64,7 @@ function CourseDetails({ courseId, setActivePage }: CourseDetailsProps) {
               </div>
             </div>
             <div className="relative">
-              <div className="absolute -inset-4 bg-gradient-to-r from-accent/20 to-secondary/20 rounded-lg blur-lg"></div>
+              <div className="absolute -inset-0  rounded-lg blur-lg"></div>
               <img
                 src={course.image}
                 alt={course.title}
