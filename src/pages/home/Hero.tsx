@@ -39,7 +39,7 @@ function Hero({ setActivePage }: HeroProps) {
               </div>
             </div>
             <div className="relative">
-              <div className="absolute -inset-4 bg-gradient-to-r from-accent/20 to-secondary/20 rounded-lg blur-lg"></div>
+              <div className="absolute -inset-0  rounded-lg blur-lg"></div>
               <img
                 src="https://github.com/anwar211944/BackspaceWebsite/blob/main/img/Backspace-Logo.png?raw=true"
                 alt="Online learning"
